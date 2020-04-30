@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-30T16:46:10 GMT-04:00" name="Default suite" finished-at="2020-04-30T16:46:27 GMT-04:00" duration-ms="16476">
+    <groups>
+    </groups>
+    <test started-at="2020-04-30T16:46:10 GMT-04:00" name="Default test" finished-at="2020-04-30T16:46:27 GMT-04:00" duration-ms="16476">
+      <class name="testSoapPackage.TestRunnerClass">
+        <test-method signature="SoapTest()[pri:0, instance:testSoapPackage.TestRunnerClass@383bfa16]" started-at="2020-04-30T16:46:10 GMT-04:00" name="SoapTest" finished-at="2020-04-30T16:46:27 GMT-04:00" duration-ms="16423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SoapTest -->
+      </class> <!-- testSoapPackage.TestRunnerClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
