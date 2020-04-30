@@ -12,7 +12,7 @@ import com.eviware.soapui.model.testsuite.TestRunner.Status;
 
 public class TestRunner 
 {
-   //Grab project
+   //Grab Project 
    WsdlProject project=new WsdlProject(System.getProperty("user.dir")+"\\API Files\\Deck-of-Cards-readyapi-project.xml");
    @Test
    public void restApiTestExecution()
